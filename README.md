@@ -83,7 +83,3 @@ La comparaison des modèles a été réalisée sur plusieurs métriques telles q
 ## Conclusion
 
 Ce projet a réussi à développer des modèles efficaces pour la détection de comportements d'enchères robotiques en ligne. Les insights tirés de l'analyse des features ont contribué à une meilleure compréhension des différences entre les enchérisseurs humains et robots, offrant ainsi une base solide pour la prévention de la fraude dans les enchères en ligne.
-
----
-
-Ce README fournit un aperçu général du projet et guide les utilisateurs à travers les étapes clés de l'analyse et de la modélisation. Assurez-vous d'adapter les sections en fonction de vos résultats spécifiques et des détails techniques de votre implémentation.
